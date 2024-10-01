@@ -17,9 +17,11 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/yaochen.pdf", title: "CV", icon: home}
+  - {url: "/", icon: home, title: "Home"}
   - {file: "README.md", title: "About me", icon: address-card}
+  - {title: "CV", file: "/yaochen.pdf"}
   - {title: "Blog", file: "/blog.md"}
+  - {title: "Publications", url: "https://scholar.google.com/citations?hl=en&user=GLIj0o8AAAAJ&view_op=list_works&authuser=1&gmla=ALUCkoXNtF84beEHDxLsVKa1h9XlXazCV3fAf8QD-VMp-yockIdPKfaES7PE4zkOAgAYyYAnzlma7WFOFvriJTFs"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yc108@iu.edu"}
