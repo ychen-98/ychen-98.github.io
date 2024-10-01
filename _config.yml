@@ -19,8 +19,8 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/", icon: home, title: "Home"}
   - {file: "README.md", title: "About me", icon: address-card}
-  - {title: "CV", file: "/yaochen.pdf"}
-  - {title: "Blog", file: "/blog.md"}
+  - {title: "CV", file: "yaochen.pdf"}
+  - {title: "Blog", file: "blog.md"}
   - {title: "Publications", url: "https://scholar.google.com/citations?hl=en&user=GLIj0o8AAAAJ&view_op=list_works&authuser=1&gmla=ALUCkoXNtF84beEHDxLsVKa1h9XlXazCV3fAf8QD-VMp-yockIdPKfaES7PE4zkOAgAYyYAnzlma7WFOFvriJTFs"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
