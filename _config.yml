@@ -1,4 +1,4 @@
-title: "Y. C."
+title: "Yao (Emma) Chen"
 author: "Yao (Emma) Chen"
 description: "Indiana University School of Medicine"
 permalink: /:title/
@@ -18,14 +18,15 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/", icon: home, title: "Home"}
-  - {file: "README.md", title: "About me", icon: address-card}
-  - {title: "CV", file: "yaochen.pdf"}
-  - {title: "Blog", file: "blog.md"}
-  - {title: "Publications", url: "https://scholar.google.com/citations?hl=en&user=GLIj0o8AAAAJ&view_op=list_works&authuser=1&gmla=ALUCkoXNtF84beEHDxLsVKa1h9XlXazCV3fAf8QD-VMp-yockIdPKfaES7PE4zkOAgAYyYAnzlma7WFOFvriJTFs"}
+  # - {file: "README.md", title: "About me", icon: address-card}
+  - {title: "Blog", file: "blog.md"} 
+  - {title: "CV", url: "https://drive.google.com/file/d/1Z3PBpp69J2SJy1L2I3jPYJG5pnKl-uUX/view?usp=sharing"}
+  - {title: "Publications", url: "https://www.researchgate.net/profile/Yao-Chen-98"}
+  - {title: Mail, icon: envelope, url: "mailto:emmachenyao@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/ychen-98"} 
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:yc108@iu.edu"}
-  - {title: Github, icon: github, url: "https://github.com/ychen-98"}
+# external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
