@@ -1,11 +1,9 @@
 ---
-title:  "phase ii trials"
+title:  "Phase II Trials and Simon's Two-Stage Design"
 mathjax: true
 layout: post
 categories: media
 ---
-
-notes/clinical_trials/phase_ii_trials.md 
 
 # Phase II Clinical Trials Overview
 
